@@ -8,6 +8,14 @@
     { "id": "1", "name": "Alsahee" },
     { "id": "2", "name": "Alhokair" }
   ],
-  "leases": [],
-  "contracts": []
+  "leases": [
+      {"userId":"1", "clientId":"1"},
+      {"userId":"1", "clientId":"2"},
+      {"userId":"2", "clientId":"1"}
+  ],
+  "contracts": [
+    {"userId":"1", "clientId":"1"},
+    {"userId":"1", "clientId":"2"},
+    {"userId":"2", "clientId":"1"}
+  ]
 }
