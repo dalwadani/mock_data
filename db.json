@@ -1,0 +1,13 @@
+{
+  "users": [
+    { "id": "1", "name": "Dhaifallah" },
+    { "id": "2", "name": "User2" },
+    { "id": "3", "name": "User3" }
+  ],
+  "clients": [
+    { "id": "1", "name": "Alsahee" },
+    { "id": "2", "name": "Alhokair" }
+  ],
+  "leases": [],
+  "contracts": []
+}
