@@ -9,13 +9,13 @@
     { "id": "2", "name": "Alhokair" }
   ],
   "leases": [
-      {"userId":"1", "clientId":"1"},
-      {"userId":"1", "clientId":"2"},
-      {"userId":"2", "clientId":"1"}
+    { "id": "1", "userId": "1", "clientId": "1" },
+    { "id": "2", "userId": "1", "clientId": "2" },
+    { "id": "3", "userId": "2", "clientId": "1" }
   ],
   "contracts": [
-    {"userId":"1", "clientId":"1"},
-    {"userId":"1", "clientId":"2"},
-    {"userId":"2", "clientId":"1"}
+    { "id": "1", "userId": "1", "clientId": "1" },
+    { "id": "2", "userId": "1", "clientId": "2" },
+    { "id": "3", "userId": "2", "clientId": "1" }
   ]
 }
